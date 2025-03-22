@@ -52,10 +52,3 @@ if Qdmáx > Qsdmin:
 
         Qmáx = float(input("Insira o maior cortante da viga em tf: "))
         Qdmáx_2 = round(1.4 * Qmáx, 2)
-
-
-
-
-        #: if Qdmáx_2 < Qdmáx:  |Perguntar ao professor|
-
-        #: Cálculo da armadura, perguntar ao professor ou consultar o caderno.
