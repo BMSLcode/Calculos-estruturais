@@ -1,6 +1,3 @@
-# Calculo_-estruturais
-Ola, esses codigos foram feitos durante o meu curso tecnico em edificações, queria automatizar os calculos para para faze-los rapidamente e aprender com eles.
-
 # Cálculos Estruturais de Lajes e Vigas
 
 Este repositório contém scripts para automatizar cálculos estruturais de lajes e vigas, facilitando a análise e dimensionamento de elementos estruturais de concreto armado.
